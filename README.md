@@ -7,6 +7,7 @@ This project is created for generating DefacePage in seconds. Just input details
 ## To Run this Project.
 
 1. Install Python in your Machine/Termux.
+
 For Kali:
 ```http
   sudo apt-get install python3.8 python3-pip
@@ -17,7 +18,7 @@ For Termux:
 ```
 2. clone DefacePage Generator Tool.
 ```http
-  git clone https://github.com/D3VR4J/DefacePage-Generator.git
+  git clonehttps://github.com/D3VR4J/DefacePage-Generator
   ```
 3. Open Directory.
 ```http
@@ -25,7 +26,7 @@ For Termux:
 ```
 4. Permission to execute.
 ```htttp
-  chmod +x DefacePage-Generator
+  chmod +x dfpgenerator.py
 ```
 5. Run the tool 'DefacePage-Generator'
 ```http
@@ -33,8 +34,10 @@ For Termux:
 ```
 ## Screenshot
 
-![App Screenshot](https://i.ibb.co/mR1xR9p/Deface-Page-Generator.png)
+![App Screenshot](https://github.com/D3VR4J/DefacePage-Generator/blob/main/screenshot.png)
 
-![Logo](https://i.ibb.co/rf5fvxx/D3-VR4-J-cursor.png)By: D3VR4J
+![Logo](https://i.ibb.co/rf5fvxx/D3-VR4-J-cursor.png)
+
+By: D3VR4J
 
 You have any idea? then share with me here https://flow.page/devraj.

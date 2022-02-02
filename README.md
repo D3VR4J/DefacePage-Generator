@@ -18,7 +18,7 @@ For Termux:
 ```
 2. clone DefacePage Generator Tool.
 ```http
-  git clonehttps://github.com/D3VR4J/DefacePage-Generator
+  git clone https://github.com/D3VR4J/DefacePage-Generator
   ```
 3. Open Directory.
 ```http
